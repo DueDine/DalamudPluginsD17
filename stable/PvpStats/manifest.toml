@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/wrath16/PvpStats.git"
-commit = "8638bb5f879d2ecb9fb12d83d32f4e0d2732c31d"
+commit = "01fc368ee3b234b2001ad0c8748c915030ce4beb"
 owners = ["wrath16"]
 project_path = "PvpStats"
 changelog = """
-* Added mech count graph to Rival Wings match details.
-* Added mid and merc event icons to Rival Wings match details graphs.
+* Fixed incorrect alliance soaring stacks on Rival Wings matches.
 """

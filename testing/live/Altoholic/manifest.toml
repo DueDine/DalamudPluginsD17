@@ -1,9 +1,8 @@
 [plugin]
 repository = "https://github.com/Sohtoren/Altoholic.git"
-commit = "8af1fee61a6434ba2c9facd45ef43575620b96b8"
+commit = "667fd19a437185bcbfba78e0c0e5c5beda72abf5"
 owners = ["Sohtoren"]
 project_path = "Altoholic"
 changelog = """\
-- **General**: Add armoire tracking
-- **Inventories**: Add armoire tab and inventory
+- **Progress**: Adding Hatching-tide seasonal event and 7.2 MSQ
 """
